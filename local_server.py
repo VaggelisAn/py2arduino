@@ -16,7 +16,7 @@ board.samplingOn()
 
 # BOTTLE -------------------
 app = Bottle()
-ROOT_TEMPLATES = "GUI/templates"
+ROOT_TEMPLATES = "templates"
 
 # --------------------------
 
